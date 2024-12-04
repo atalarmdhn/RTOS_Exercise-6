@@ -1,4 +1,4 @@
-# RTOS_Exercise-6
+# RTOS Exercise 6
 Proyek ini merupakan implementasi multithreading menggunakan FreeRTOS yang mengontrol LED hijau dan LED merah melalui dua task yaitu GreenLEDTask dan RedLEDTask. FreeRTOS digunakan untuk membuat task-task yang berjalan secara konkuren dengan prioritas berbeda. Proyek ini juga mencakup mekanisme akses data bersama yang dikendalikan menggunakan critical section untuk mencegah race condition.
 
 ## Cara Kerja 
